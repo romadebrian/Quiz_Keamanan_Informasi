@@ -7,5 +7,5 @@
   <p align="center"><strong> Dosen : Erick Dazki, S.Kom., M.T.I. </strong></p>
 </div>
 
-Note : pada attempt ke 3 setiap quiz soal akan berbeda
+Note : pada attempt ke 3 setiap quiz soal akan berbeda <br>
 di setiap nama pada folder quiz memiliki beberapa attempt yang berbeda
