@@ -6,3 +6,6 @@
   <p align="center"><strong> Pradita Institute </strong></p>
   <p align="center"><strong> Dosen : Erick Dazki, S.Kom., M.T.I. </strong></p>
 </div>
+
+Note : pada attemp ke 3 soal akan berbeda
+di setiap nama terdapat beberapa attemp yang berbeda soal
