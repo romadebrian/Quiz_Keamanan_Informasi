@@ -1,0 +1,1 @@
+require(['jquery','core/first'],function(jQuery){window.jQuery=jQuery;require(['theme_mb2cg/bootstrap','core/log'],function(b,log){log.debug('Bootstrap JavaScript initialised');jQuery('[data-toggle="tooltip"]').tooltip();jQuery('[data-toggle="popover"]').popover()})})
